@@ -1,0 +1,83 @@
+.header1{
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    
+}
+.sec1{
+    width: 50%;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+.sec2{
+    width: 50%;
+    
+    align-items: center;
+    padding-left: 20%;
+    font-size: 25px;
+    color: rgb(67, 67, 67);
+    
+}
+.foto-perfil{
+    width: 176px;
+    height: 176px;
+    background-image: url(/exercicios/perfil-viagens/assets/Profile\ pic.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sobre{
+    width: 50%;
+    color: rgb(67, 67, 67);
+    font-size: 20px;
+}
+.icon1{
+    width: 40px;
+    height: 40px;
+    background-image: url(/exercicios/perfil-viagens/assets/MapPin.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 20px;
+    
+    margin-top: 20px;
+
+
+}
+.icon2{
+    width: 40px;
+    height: 40px;
+    background-image: url(/exercicios/perfil-viagens/assets/AirplaneTilt.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+    
+}.icon3{
+    width: 40px;
+    height: 40px;
+    background-image: url(/exercicios/perfil-viagens/assets/Image.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    margin-top: 5px;
+    
+    
+}
+.v1{
+    display: flex;
+    
+    align-items: center;
+    gap: 20px;
+    
+}
+.v2{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.v3{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}

@@ -1,0 +1,91 @@
+.secao3{
+    width: 100%;
+    
+    
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 30px;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+    
+
+}
+.center{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    margin: auto;
+    
+    align-items: center;
+    justify-content: center;
+    
+}
+#fotos{
+    width: 286px;
+    height: 286px;
+    
+   
+    
+}
+.img01{
+    background-image: url(/exercicios/perfil-viagens/assets/Image\ 01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img02{
+    background-image: url(/exercicios/perfil-viagens/assets/Image\ 02.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img03{
+    background-image: url(/exercicios/perfil-viagens/assets/Image\ 03.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img04{
+    background-image: url(/exercicios/perfil-viagens/assets/Image\ 04.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img05{
+    background-image: url(/exercicios/perfil-viagens/assets/Image\ 05.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img06{
+    background-image: url(/exercicios/perfil-viagens/assets/Image\ 06.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img07{
+    background-image: url(/exercicios/perfil-viagens/assets/Image\ 07.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img08{
+    background-image: url(/exercicios/perfil-viagens/assets/Image\ 08.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img09{
+    background-image: url(/exercicios/perfil-viagens/assets/Image\ 09.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img010{
+    background-image: url(/exercicios/perfil-viagens/assets/Image\ 10.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img011{
+    background-image: url(/exercicios/perfil-viagens/assets/Image\ 11.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img012{
+    background-image: url(/exercicios/perfil-viagens/assets/Image\ 12.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
